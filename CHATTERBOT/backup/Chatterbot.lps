@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Chatterbot.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="10" Y="3"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="menu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="7" Y="25"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="visuales.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Visuales"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="61"/>
+        <CursorPos X="18" Y="123"/>
+        <FoldState Value=" T3Q0W211 PiHjE0W"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manejo_chat.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="95"/>
+        <CursorPos X="10" Y="102"/>
+        <FoldState Value=" T3F0)E"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="38" Column="16" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="14" Column="19" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="15" Column="10" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="27" Column="9" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="16" Column="10" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="17" Column="14" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="13" Column="3" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="22" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="31" Column="14" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="28" Column="8" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="55" Column="14" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="20" Column="15" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="83" Column="29" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="64" Column="6" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="69" Column="9" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="81" Column="13" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="83" Column="12" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="76" Column="35" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="97" Column="47" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="36" Column="8" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="40" Column="17" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="46" Column="20" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="27" Column="30" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="manejo_chat.pas"/>
+        <Caret Line="32" Column="17" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="manejo_chat.pas"/>
+        <Caret Line="22" Column="14" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="visuales.pas"/>
+        <Caret Line="123" Column="20" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="manejo_chat.pas"/>
+        <Caret Line="70" Column="20" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="27" Column="28" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="19" Column="7" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="menu.pas"/>
+        <Caret Line="25" Column="7" TopLine="14"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

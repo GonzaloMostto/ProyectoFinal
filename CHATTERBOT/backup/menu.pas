@@ -22,6 +22,7 @@ begin
       entrada(opcion);
       salida(opcion);
       readkey;
+
       case opcion of
       'h':introduccion;
       end;
